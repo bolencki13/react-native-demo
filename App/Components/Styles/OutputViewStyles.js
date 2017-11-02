@@ -15,9 +15,10 @@ export default StyleSheet.create({
     padding: 5
   },
   outputText: {
+    flex: 1,
     fontWeight: 'bold',
     fontSize: Fonts.size.h4,
     height: Fonts.size.h4,
-    textAlign: 'right'
+    textAlign: 'right',
   },
 })
